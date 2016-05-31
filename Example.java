@@ -5,7 +5,7 @@ public class Example extends Object
     */
     public static void main(String[] arguments)
     {
-        System.out.println("hello world");
+        System.out.println("hello new world");
         return;
     }
 }
